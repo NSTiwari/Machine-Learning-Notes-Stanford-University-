@@ -1,1 +1,1 @@
-# Machine-Learning-Notes-Stanford-University-
+Machine Learning by Andrew Ng (Stanford University)
